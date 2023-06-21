@@ -1,0 +1,8 @@
+.wwebjs_auth
+.wwebjs_cache
+node_modules
+atman-personal-project-service-account-credentials.json
+logs.txt
+Untitled spreadsheet - Sheet1.csv
+csvFile.json
+googleSheetsService.js
